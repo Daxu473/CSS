@@ -1,0 +1,31 @@
+#pogrubione_hetmanski{
+    font-weight: 500;
+    font-size: 34px;
+    color: #9b5ccf;
+}
+#pochylone_hetmanski{
+    font-style: italic;
+    font-size: 39pt;
+    color: #ffc06b;
+}
+#index_gorny_hetmanski{
+    vertical-align: top;
+    font-size: 1.4cm;;
+    color: #af8e1b;
+}
+#index_dolny_hetmanski{
+    vertical-align: bottom;
+    font-size: 2.3cm;
+    color: hsl(175, 87%, 62%);
+}
+#mono_hetmanski{
+    font-size: 44px;
+    color: #2fde6b;
+}
+#powiekszenie_hetmanski{
+    color: #693e9d;
+}
+#pomniejszenie_hetmanski{
+    font-size: 32px;
+    color: hsl(43, 60%, 51%);
+}
