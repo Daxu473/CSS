@@ -1,0 +1,14 @@
+p {
+    font-size: 22pt;
+    color: red;
+}
+#gruby_hetm{
+    font-size: 17pt;
+    color: green;
+    font-weight: bold;
+}
+#dla_wszystkich_hetm{
+    font-size: 10pt;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
